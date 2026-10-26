@@ -9,3 +9,5 @@ adicionando informações no README
 
 
 ## Meus Projetos
+- Portfólio Git: repositório de estudos
+- Projeto de árvores em C++ (Trie, Patricia, Splay, Treap, KD-Tree)
